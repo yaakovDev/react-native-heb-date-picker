@@ -1,8 +1,12 @@
 {
   "name": "react-native-heb-date-picker",
-  "version": "1.0.72",
+  "version": "1.0.73",
   "description": "date picker for hebrew calendar",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaakovDev/react-native-heb-date-picker.git"
+  },
   "keywords": [
     "hebrew",
     "calendar",

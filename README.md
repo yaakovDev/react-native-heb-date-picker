@@ -2,6 +2,8 @@
 
 ## Usage
 
+![Pic1](https://github.com/yaakovDev/react-native-heb-date-picker/blob/main/assets/picker-1.png)
+
 
 ## Some code example
 
