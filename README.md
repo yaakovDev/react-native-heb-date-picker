@@ -1,11 +1,11 @@
 ## Still Under construction 🏗️🏗️🏗️
 
-## Usage
+## A picture worth a thousand words
 
 ![Pic1](https://github.com/yaakovDev/react-native-heb-date-picker/blob/main/assets/picker-1.png)
 
 
-## Some code example
+## Some code usage
 
   ```
 
